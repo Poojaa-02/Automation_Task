@@ -5,3 +5,4 @@ Retrieve Weather Data:  Utilize Playwright or Selenium to automate the retrie
 cities.  Extract relevant weather information from the web pages. Insert Data to SQL:  Establish a connection to the SQL database using Python.  Create a table in the database to store weather data.  Insert the retrieved weather data for the 10 cities into the SQL database. Create View in SQL:  Write SQL queries to create a view that combines forecasted and actual
 weather data.  Ensure the view includes essential information such as city, date, forecasted
 temperature, actual temperature, forecasted conditions, and actual
+hello
